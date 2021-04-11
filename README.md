@@ -8,4 +8,4 @@
   <li>Extract data from APIs</li>
 </ul>
 
-In this project, I have scarped data from the website http://books.toscrape.com/, the code to scrape the data can be found in the scraping_books_data Python notebook and the output in CSVformat can be found in book_scraped_data file</p>
+In this project, I have scraped data from the website http://books.toscrape.com/, the code to scrape the data can be found in the scraping_books_data Python notebook and the output in CSV format can be found in book_scraped_data file</p>
